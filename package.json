@@ -1,0 +1,25 @@
+{
+  "name": "testbots",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "discord-giveaways": "^4.2.1",
+    "discord.js": "^12.3.1",
+    "discord.js-pagination": "^1.0.2",
+    "enmap": "^5.8.0",
+    "ffmpeg-static": "^4.2.7",
+    "ms": "^2.1.2",
+    "opusscript": "0.0.7",
+    "os": "^0.1.1",
+    "request": "^2.88.2",
+    "ytdl-core": "^3.4.1"
+  }
+}
