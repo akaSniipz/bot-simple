@@ -1,2 +1,0 @@
-cd desktop/testbots
-node .
